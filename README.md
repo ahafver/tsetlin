@@ -1,1 +1,1 @@
-# tsetlin
+# Tsetlin Machines in the Wolfram Language
